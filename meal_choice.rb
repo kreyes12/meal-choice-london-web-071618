@@ -4,4 +4,4 @@ def meal_choice (argument, default="meat")
   puts meal_choice
 end
 
-meal.choice.
+meal_choice("something")
