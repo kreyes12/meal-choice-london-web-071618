@@ -1,8 +1,8 @@
 # Define a method meal_choice that returns the meal_choice that was
 # passed into it and defaults to meat.
 def meal_choice(argument, default="meat")
-  puts argument
-  puts default
+  return argument
+  return default
 end
 
 meal_choice("vegan")
