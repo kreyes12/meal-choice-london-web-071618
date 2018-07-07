@@ -7,3 +7,5 @@ end
 
 meal_choice("vegan")
 meal_choice()
+
+end
