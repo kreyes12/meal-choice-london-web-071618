@@ -5,4 +5,5 @@ def meal_choice(argument, default="meat")
   puts default
 end
 
-meal_choice("something")
+meal_choice("vegan")
+meal_choice()
