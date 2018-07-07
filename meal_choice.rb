@@ -3,6 +3,7 @@
 def meal_choice(default="meat", choice)
   puts choice
   puts default
+  end
 end
 
 
